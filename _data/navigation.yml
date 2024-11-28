@@ -7,6 +7,9 @@
 main:
   - title: "News"
     url: /talks/  
+
+  - title: "Experiences"
+    url: /cv/
     
   - title: "Publications"
     url: /publications/
@@ -17,7 +20,6 @@ main:
   - title: "Honors and Awards"
     url: /portfolio/
         
-  - title: "Educations and Experience"
-    url: /cv/
+
     
 
