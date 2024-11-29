@@ -11,6 +11,6 @@ Hi, my name is Jia Liu. I am a Second year Ph.D. student in School of Transporta
 
 I focus on AI4Simulation and Digital Twins, combining AI with computational mechanics, and strive to build a synergistic digital twin world that integrates virtual and real elements
 
-For more info
+NEWS
 ------
 
