@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D 
-* M.S. 
-* B.S. 
+* Ph.D Central South Univisity 
+* B.S. Central South Univisity
 
 Work experience
 ======
