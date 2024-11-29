@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 <br>
 
+{% include base_path %}
 Education
 ======
 * Ph.D Central South Univisity 
