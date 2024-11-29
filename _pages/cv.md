@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 <br>
+
 Education
 ======
 * Ph.D Central South Univisity 
