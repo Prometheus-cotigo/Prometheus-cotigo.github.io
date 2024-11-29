@@ -15,18 +15,21 @@ Education
 * Ph.D Central South Univisity 
 * B.S. Central South Univisity
 
+<br>
 Work experience
 ======
 * 
 * 
 * 
 
+<br>
 Skills
 ======
 * 
 * 
 * 
-  
+
+<br>
 Service and leadership
 ======
 * 
