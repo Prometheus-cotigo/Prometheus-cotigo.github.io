@@ -6,10 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 <br>
-
 Education
 ======
 * Ph.D Central South Univisity 
